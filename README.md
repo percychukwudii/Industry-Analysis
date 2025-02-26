@@ -15,4 +15,3 @@ Team:
 3. Tanmay Ambre
 
 The [DocumentSimilarity](./DocumentSimilarity.py) is a helper module provided by Professor Gene for this project.
-

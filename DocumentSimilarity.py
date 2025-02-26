@@ -73,5 +73,4 @@ class DocumentSimilarity:
         largest_n_indices = sorted_indices[:topn + 1]
 
         return [(self.firms[x], self.conm[x], \
-                 cosine_similarities[x]) for x in largest_n_indices[1:]]
-    
+                 cosine_similarities[x]) for x in largest_n_indices[1:]]git 
